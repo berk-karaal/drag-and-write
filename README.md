@@ -6,17 +6,17 @@ Example ⤵
 
 ### HOW TO ?
 
-Go to this url: http://berkkaraal.com/dragandwrite/?txt=YOUR+TEXT+HERE++
+Go to this url: http://berkkaraal.com/p5js/dragandwrite/?txt=YOUR+TEXT+HERE++
 
 Change the _YOUR+TEXT+HERE+++_ with anything you want and go to that url.
 
 Example urls:
 
-http://berkkaraal.com/dragandwrite/?txt=I+LOVE+YOU+++
+http://berkkaraal.com/p5js/dragandwrite/?txt=I+LOVE+YOU+++
 
-http://berkkaraal.com/dragandwrite/?txt=HELLO+WORLD+++
+http://berkkaraal.com/p5js/dragandwrite/?txt=HELLO+WORLD+++
 
-http://berkkaraal.com/dragandwrite/?txt=CODE+++
+http://berkkaraal.com/p5js/dragandwrite/?txt=CODE+++
 
 _Note:_ You can use '+' for spaces
 
